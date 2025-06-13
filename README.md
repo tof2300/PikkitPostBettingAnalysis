@@ -36,7 +36,6 @@ A clean, modular Python pipeline for loading, preprocessing, and analyzing NBA p
 ```bash
 git clone https://github.com/yourusername/PikkitPostBetAnalysis.git
 cd pikkit-feature-engineering
-pip install -r requirements.txt
 ```
 
 ## Usage
