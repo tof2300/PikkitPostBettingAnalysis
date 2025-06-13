@@ -1,4 +1,3 @@
-# PikkitPostBettingAnalysis
 # Pikkit Post-Bet Data Pipeline
 
 A clean, modular Python pipeline for loading, preprocessing, and analyzing NBA prop-bet transactions data from Pikkit.
